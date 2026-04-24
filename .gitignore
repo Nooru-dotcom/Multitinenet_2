@@ -1,0 +1,5 @@
+tenant-proxy
+tenant-cli
+*.o
+*.obj
+*.exe
