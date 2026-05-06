@@ -1,3 +1,4 @@
+// Phase 2 (2/3): token-bucket rate limiter (Section 8)
 #pragma once
 // sessions.hpp — Per-tenant session tracking and token-bucket rate limiter
 //
