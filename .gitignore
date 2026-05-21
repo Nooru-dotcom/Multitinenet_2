@@ -1,0 +1,5 @@
+/tests/unit_test
+/tenant-proxy
+/tenant-cli
+*.o
+*.exe
